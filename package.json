@@ -1,6 +1,6 @@
 {
   "name": "mk-service-utils",
-  "version": "1.0.8",
+  "version": "1.4.1",
   "description": "",
   "main": "index.js",
   "scripts": {
